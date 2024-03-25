@@ -1,3 +1,6 @@
+
+**Elon Musk announced the open sourcing of Grok-1, a large language model with 314 billion parameters, now available under Apache 2.0 license.**
+
 # Grok-1
 
 This repository contains JAX example code for loading and running the Grok-1 open-weights model.
